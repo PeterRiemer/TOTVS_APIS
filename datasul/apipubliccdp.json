@@ -2570,6 +2570,22 @@
           "title": "mgadm.emitente.cidade",
           "description": "Nome da cidade"
         },
+        "currency": {
+          "type": "string",
+          "title": "mgadm.moeda.char-2",
+          "description": "Currency"
+        },
+        "totvsCurrency": {
+          "type": "string",
+          "title": "mgadm.moeda.mo-codigo",
+          "description": "Moeda Totvs"
+        },
+        "incoterm": {
+          "type": "string",
+          "title": "mgadm.emitente-cex.incoterm-exp",
+          "description": "Incoterm"
+        },        
+        
         "comments": {
           "type": "string",
           "title": "mgadm.emitente.observacoes",
