@@ -3008,6 +3008,11 @@
           "title": "mgadm.cont-emit.sequencia",
           "description": "Número da seqüencial do contato do emitente"
         },
+        "externalContactID": {
+          "type": "integer",
+          "title": "mgadm.cont-emit.int-2",
+          "description": "Contato externo do cliente SAP"
+        },
         "telefax": {
           "type": "string",
           "title": "mgadm.cont-emit.telefax",
