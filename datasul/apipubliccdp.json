@@ -2695,6 +2695,11 @@
           "title": "mgadm.emitente.cod-entrega",
           "description": "Código do endereço de entrega"
         },
+        "externalCustomerID": {
+          "type": "integer",
+          "title": "mgadm.dist-emitente.int-2",
+          "description": "Código de Cliente Externo SAP"
+        },
         "email": {
           "type": "string",
           "title": "mgadm.emitente.e-mail",
